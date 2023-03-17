@@ -1,0 +1,5 @@
+REIJO : 8d3c31
+NEGRO: 000000
+DUFUNINADO: 000000
+LETRA 1 :  Britannic Bold
+letra 2 : Arial Rounded MT Bold 
